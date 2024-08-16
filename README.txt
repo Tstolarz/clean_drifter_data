@@ -7,7 +7,7 @@ The clean_drifter_data_app_local.py script cleans the drifter data by:
 2. Removes duplicate time stamps
 3. Resamples the data to be on the hour at T 00:00
 4. Removes duplicate times again if needed
-5. Exports individual netcdf files for each ID of drifter in the civ
+5. Exports individual netcdf files for each ID of drifter in the csv
 
 
 Installation:
